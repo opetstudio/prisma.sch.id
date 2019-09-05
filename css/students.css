@@ -1,0 +1,209 @@
+.version.students /* version checker */
+{
+	color: #00001F;
+	background-color: #3BCA59;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1280px;
+	min-height: 480px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #071A25;
+	padding-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u4125,#u4125-bw
+{
+	z-index: 29;
+	height: 250px;
+}
+
+#menuu4056
+{
+	z-index: 2;
+	width: 616px;
+	margin-left: 332px;
+	margin-top: 139px;
+	position: relative;
+}
+
+#u4071
+{
+	width: 204px;
+	min-height: 27px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4072
+{
+	width: 204px;
+	padding-bottom: 9px;
+	position: relative;
+}
+
+#u4072:hover
+{
+	width: 204px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4073-4
+{
+	width: 204px;
+	min-height: 18px;
+	position: relative;
+	margin-right: -10000px;
+	top: 4px;
+}
+
+#u4072:hover #u4073-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 204px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4057
+{
+	width: 204px;
+	min-height: 27px;
+	position: relative;
+	margin-right: -10000px;
+	left: 206px;
+}
+
+#u4060
+{
+	width: 204px;
+	padding-bottom: 9px;
+	position: relative;
+}
+
+#u4072.MuseMenuActive,#u4060:hover
+{
+	width: 204px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4061-4
+{
+	width: 204px;
+	min-height: 18px;
+	position: relative;
+	margin-right: -10000px;
+	top: 4px;
+}
+
+#u4072.MuseMenuActive #u4073-4,#u4060:hover #u4061-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 204px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4064
+{
+	width: 204px;
+	min-height: 27px;
+	position: relative;
+	margin-right: -10000px;
+	left: 412px;
+}
+
+#u4067
+{
+	width: 204px;
+	padding-bottom: 9px;
+	position: relative;
+}
+
+#u4060.MuseMenuActive,#u4067:hover
+{
+	width: 204px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4067.MuseMenuActive
+{
+	width: 204px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u4070-4
+{
+	width: 204px;
+	min-height: 18px;
+	position: relative;
+	margin-right: -10000px;
+	top: 4px;
+}
+
+#u4060.MuseMenuActive #u4061-4,#u4067:hover #u4070-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 204px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4067.MuseMenuActive #u4070-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 204px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u4078-8
+{
+	z-index: 21;
+	width: 336px;
+	min-height: 50px;
+	margin-left: 471px;
+	margin-top: 13px;
+	position: relative;
+}
+
+.html
+{
+	background-color: #071A25;
+}
+
+body
+{
+	position: relative;
+	min-width: 1280px;
+}
+
